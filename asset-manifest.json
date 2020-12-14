@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ECommwebsite/static/css/main.f804cd88.chunk.css",
+    "main.js": "/ECommwebsite/static/js/main.54dabb00.chunk.js",
+    "main.js.map": "/ECommwebsite/static/js/main.54dabb00.chunk.js.map",
+    "runtime-main.js": "/ECommwebsite/static/js/runtime-main.9b960f98.js",
+    "runtime-main.js.map": "/ECommwebsite/static/js/runtime-main.9b960f98.js.map",
+    "static/js/2.3b1fff27.chunk.js": "/ECommwebsite/static/js/2.3b1fff27.chunk.js",
+    "static/js/2.3b1fff27.chunk.js.map": "/ECommwebsite/static/js/2.3b1fff27.chunk.js.map",
+    "static/js/3.72dc7dd5.chunk.js": "/ECommwebsite/static/js/3.72dc7dd5.chunk.js",
+    "static/js/3.72dc7dd5.chunk.js.map": "/ECommwebsite/static/js/3.72dc7dd5.chunk.js.map",
+    "index.html": "/ECommwebsite/index.html",
+    "static/css/main.f804cd88.chunk.css.map": "/ECommwebsite/static/css/main.f804cd88.chunk.css.map",
+    "static/js/2.3b1fff27.chunk.js.LICENSE.txt": "/ECommwebsite/static/js/2.3b1fff27.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ECommwebsite/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b960f98.js",
+    "static/js/2.3b1fff27.chunk.js",
+    "static/css/main.f804cd88.chunk.css",
+    "static/js/main.54dabb00.chunk.js"
+  ]
+}

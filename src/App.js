@@ -26,7 +26,7 @@ function App() {
     <div>
       <Switch>
       {/* <Home /> */}
-      <Route exact path='/' component={home}/>
+      <Route exact path='/' component={Home}/>
       <Route exact path='/hats' component={random}/>
       </Switch>
     </div>

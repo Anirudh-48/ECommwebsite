@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ECommwebsite/static/css/main.cc8842e3.chunk.css",
-    "main.js": "/ECommwebsite/static/js/main.f8bbce0b.chunk.js",
-    "main.js.map": "/ECommwebsite/static/js/main.f8bbce0b.chunk.js.map",
+    "main.js": "/ECommwebsite/static/js/main.f782e5d6.chunk.js",
+    "main.js.map": "/ECommwebsite/static/js/main.f782e5d6.chunk.js.map",
     "runtime-main.js": "/ECommwebsite/static/js/runtime-main.a19ccd7a.js",
     "runtime-main.js.map": "/ECommwebsite/static/js/runtime-main.a19ccd7a.js.map",
     "static/js/2.771d3e74.chunk.js": "/ECommwebsite/static/js/2.771d3e74.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a19ccd7a.js",
     "static/js/2.771d3e74.chunk.js",
     "static/css/main.cc8842e3.chunk.css",
-    "static/js/main.f8bbce0b.chunk.js"
+    "static/js/main.f782e5d6.chunk.js"
   ]
 }

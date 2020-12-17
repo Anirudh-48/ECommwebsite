@@ -24,7 +24,6 @@ function App() {
       <Switch>
       {/* <Home /> */}
       <Route exact path='/ECommwebsite' component={Home}/>
-      <Route path='/shop' component={ShopPage}/>
       </Switch>
     </div>
   );

@@ -7,7 +7,7 @@ const header=()=>
 {
     return(
         <div className='header'>
-            <Link className='logo-container' to="/Ecommwebsite"><Logo className='logo'/></Link>
+            <Link className='logo-container' to="/"><Logo className='logo'/></Link>
             <div className='options'>
             <Link className='option' to='/shop'>SHOP</Link>
             <Link className='option' to='/contact'>CONTACT US</Link>

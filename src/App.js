@@ -23,7 +23,7 @@ function App() {
       <Header/>
       <Switch>
       {/* <Home /> */}
-      <Route exact path='/Ecommwebsite' component={Home}/>
+      <Route exact path='/' component={Home}/>
       <Route path='/shop' component={ShopPage}/>
       </Switch>
     </div>

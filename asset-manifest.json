@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Ecommwebsite/static/css/main.cc8842e3.chunk.css",
-    "main.js": "/Ecommwebsite/static/js/main.2229b47c.chunk.js",
-    "main.js.map": "/Ecommwebsite/static/js/main.2229b47c.chunk.js.map",
+    "main.js": "/Ecommwebsite/static/js/main.21341e30.chunk.js",
+    "main.js.map": "/Ecommwebsite/static/js/main.21341e30.chunk.js.map",
     "runtime-main.js": "/Ecommwebsite/static/js/runtime-main.e0a4f566.js",
     "runtime-main.js.map": "/Ecommwebsite/static/js/runtime-main.e0a4f566.js.map",
     "static/js/2.a34b82e8.chunk.js": "/Ecommwebsite/static/js/2.a34b82e8.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.e0a4f566.js",
     "static/js/2.a34b82e8.chunk.js",
     "static/css/main.cc8842e3.chunk.css",
-    "static/js/main.2229b47c.chunk.js"
+    "static/js/main.21341e30.chunk.js"
   ]
 }

@@ -9,8 +9,8 @@ const header=()=>
         <div className='header'>
             <Link className='logo-container' to="/ECommwebsite/"><Logo className='logo'/></Link>
             <div className='options'>
-            <Link className='option' to='/shop'>SHOP</Link>
-            <Link className='option' to='/contact'>CONTACT US</Link>
+            <Link className='option' to='/ECommwebsite/shop'>SHOP</Link>
+            <Link className='option' to='/ECommwebsite/contact'>CONTACT US</Link>
             </div>
         </div>
     )

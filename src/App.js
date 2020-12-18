@@ -2,20 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 import Home from './pages/homepage/homepage.component';
 import {Switch,Route,Link} from 'react-router-dom';
-import ShopPage from './pages/shop/shop.component';
+
 import Header from './components/header/header.component';
-
-
-// const home= (props)=>{
-//   console.log(props);
-//   return(
-// <div>
-//   {/* <Link to='/hats'>Hats</Link> */}
-//   {/* <button onClick={() =>props.history.push('/hats')}>Hats</button> alternate method to go to some other page*/}
-// </div>
-//   );
-// }
-
+import SignIn from './pages/sign-in-and-register/sign-in-and-register.components';
+import Shop from './pages/shop/shop.component';
 
 function App() {
   return (
@@ -24,6 +14,8 @@ function App() {
       <Switch>
       {/* <Home /> */}
       <Route exact path='/ECommwebsite' component={Home}/>
+      <Route path='/ECommwebsite/signin' component={SignIn}/>
+      <Route path='/ECommwebsite/shop' component={Shop}/>
       </Switch>
     </div>
   );

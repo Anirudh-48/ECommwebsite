@@ -2,7 +2,6 @@ import React from 'react';
 import './header.styles.scss';
 import {Link} from 'react-router-dom';
 import {ReactComponent as Logo }  from '../../assets/icon.svg'
-
 const header=()=>
 {
     return(
@@ -11,6 +10,7 @@ const header=()=>
             <div className='options'>
             <Link className='option' to='/ECommwebsite/shop'>SHOP</Link>
             <Link className='option' to='/ECommwebsite/contact'>CONTACT US</Link>
+            <Link className='option' to='/ECommwebsite/signin'>SIGN IN</Link>
             </div>
         </div>
     )

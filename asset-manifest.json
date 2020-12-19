@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ECommwebsite/static/css/main.e9bd9f10.chunk.css",
-    "main.js": "/ECommwebsite/static/js/main.145c08af.chunk.js",
-    "main.js.map": "/ECommwebsite/static/js/main.145c08af.chunk.js.map",
-    "runtime-main.js": "/ECommwebsite/static/js/runtime-main.c02a2a63.js",
-    "runtime-main.js.map": "/ECommwebsite/static/js/runtime-main.c02a2a63.js.map",
-    "static/js/2.7b0e28af.chunk.js": "/ECommwebsite/static/js/2.7b0e28af.chunk.js",
-    "static/js/2.7b0e28af.chunk.js.map": "/ECommwebsite/static/js/2.7b0e28af.chunk.js.map",
-    "static/js/3.dcb88b9a.chunk.js": "/ECommwebsite/static/js/3.dcb88b9a.chunk.js",
-    "static/js/3.dcb88b9a.chunk.js.map": "/ECommwebsite/static/js/3.dcb88b9a.chunk.js.map",
+    "main.css": "/ECommwebsite/static/css/main.a3e4097e.chunk.css",
+    "main.js": "/ECommwebsite/static/js/main.c68aa25a.chunk.js",
+    "main.js.map": "/ECommwebsite/static/js/main.c68aa25a.chunk.js.map",
+    "runtime-main.js": "/ECommwebsite/static/js/runtime-main.72820ad5.js",
+    "runtime-main.js.map": "/ECommwebsite/static/js/runtime-main.72820ad5.js.map",
+    "static/js/2.0feb3d02.chunk.js": "/ECommwebsite/static/js/2.0feb3d02.chunk.js",
+    "static/js/2.0feb3d02.chunk.js.map": "/ECommwebsite/static/js/2.0feb3d02.chunk.js.map",
+    "static/js/3.2d8ebf26.chunk.js": "/ECommwebsite/static/js/3.2d8ebf26.chunk.js",
+    "static/js/3.2d8ebf26.chunk.js.map": "/ECommwebsite/static/js/3.2d8ebf26.chunk.js.map",
     "index.html": "/ECommwebsite/index.html",
-    "static/css/main.e9bd9f10.chunk.css.map": "/ECommwebsite/static/css/main.e9bd9f10.chunk.css.map",
-    "static/js/2.7b0e28af.chunk.js.LICENSE.txt": "/ECommwebsite/static/js/2.7b0e28af.chunk.js.LICENSE.txt",
+    "static/css/main.a3e4097e.chunk.css.map": "/ECommwebsite/static/css/main.a3e4097e.chunk.css.map",
+    "static/js/2.0feb3d02.chunk.js.LICENSE.txt": "/ECommwebsite/static/js/2.0feb3d02.chunk.js.LICENSE.txt",
     "static/media/icon.207ae289.svg": "/ECommwebsite/static/media/icon.207ae289.svg",
     "static/media/logo.6ce24c58.svg": "/ECommwebsite/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c02a2a63.js",
-    "static/js/2.7b0e28af.chunk.js",
-    "static/css/main.e9bd9f10.chunk.css",
-    "static/js/main.145c08af.chunk.js"
+    "static/js/runtime-main.72820ad5.js",
+    "static/js/2.0feb3d02.chunk.js",
+    "static/css/main.a3e4097e.chunk.css",
+    "static/js/main.c68aa25a.chunk.js"
   ]
 }

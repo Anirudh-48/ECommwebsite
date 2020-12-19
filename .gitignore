@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /todeploygit.json
-/src/firebase/firebase.utils.js
+/src/firebase
 # testing
 /coverage
 
